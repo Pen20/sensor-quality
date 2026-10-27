@@ -39,3 +39,9 @@ python -m pytest --version
 ```
 deactivate
 ```
+
+# Install python if needed
+
+```
+python -m pip install pytest
+```
